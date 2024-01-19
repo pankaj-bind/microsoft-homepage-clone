@@ -4,7 +4,7 @@ This project is a static website clone of the Microsoft official website, focusi
 
 ## Preview
 
-![Microsoft Website Clone]([preview.png](https://github.com/Pankaj-Bind/microsoft-homepage-clone/blob/main/Screenshot.png))
+![Microsoft Website Clone](https://github.com/Pankaj-Bind/microsoft-homepage-clone/blob/main/Screenshot.png)
 
 ## Features
 
