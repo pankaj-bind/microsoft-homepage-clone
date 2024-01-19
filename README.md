@@ -1,4 +1,4 @@
-# Microsoft Website Clone
+# Microsoft Website Homepage Clone
 
 This project is a static website clone of the Microsoft official website, focusing on showcasing various products and services. It includes a responsive design, navigation menu, product cards, and informational sections.
 
@@ -28,7 +28,7 @@ This project is a static website clone of the Microsoft official website, focusi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/microsoft-website-clone.git
+   git clone https://github.com/your-username/microsoft-homepage-clone.git
    
 2. Open the index.html file in your preferred web browser.
 
